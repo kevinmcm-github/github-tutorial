@@ -44,7 +44,7 @@ This is where the abstract should be written
 
 # Introduction
 
-TODO Introduction
+This is where the introduction should be written
 
 
 # Conventions and Definitions
