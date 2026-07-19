@@ -37,7 +37,7 @@ informative:
 
 --- abstract
 
-TODO Abstract
+This is where the abstract should be written
 
 
 --- middle
