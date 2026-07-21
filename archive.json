@@ -1,0 +1,111 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2026-07-21T02:11:36.256975+00:00",
+  "repo": "kevinmcm-github/github-tutorial",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOTdKN2c7zhmDA",
+      "title": "Update abstract of draft-todo-kevinmcm-tutorial.md",
+      "url": "https://github.com/kevinmcm-github/github-tutorial/pull/1",
+      "state": "MERGED",
+      "author": "kevinmcm-github",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Modified the abstract",
+      "createdAt": "2026-07-19T11:31:03Z",
+      "updatedAt": "2026-07-19T11:31:44Z",
+      "baseRepository": "kevinmcm-github/github-tutorial",
+      "baseRefName": "main",
+      "baseRefOid": "183a50d782de67d28312b1de1b1d9fe75065d824",
+      "headRepository": "kevinmcm-github/github-tutorial",
+      "headRefName": "kevinmcm-github-patch-1",
+      "headRefOid": "28a50faa2449fbbecf66d0137ac184ef01a461aa",
+      "closedAt": "2026-07-19T11:31:44Z",
+      "mergedAt": "2026-07-19T11:31:44Z",
+      "mergedBy": "kevinmcm-github",
+      "mergeCommit": {
+        "oid": "e6f1e3974647bb75474b1ac930ec7c6742881ddb"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 2,
+      "id": "PR_kwDOTdKN2c7zhnzb",
+      "title": "Update Introduction for draft-todo-kevinmcm-tutorial.md",
+      "url": "https://github.com/kevinmcm-github/github-tutorial/pull/2",
+      "state": "MERGED",
+      "author": "kevinmcm-github",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Updated the Introduction",
+      "createdAt": "2026-07-19T11:34:05Z",
+      "updatedAt": "2026-07-19T11:34:39Z",
+      "baseRepository": "kevinmcm-github/github-tutorial",
+      "baseRefName": "main",
+      "baseRefOid": "e6f1e3974647bb75474b1ac930ec7c6742881ddb",
+      "headRepository": "kevinmcm-github/github-tutorial",
+      "headRefName": "kevinmcm-github-patch-2",
+      "headRefOid": "a956cfff7f84802497a36312b37d10c8376e54a4",
+      "closedAt": "2026-07-19T11:34:39Z",
+      "mergedAt": "2026-07-19T11:34:39Z",
+      "mergedBy": "kevinmcm-github",
+      "mergeCommit": {
+        "oid": "8df6a954465c92033e69cb3340d291d4d4e180e2"
+      },
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
